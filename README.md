@@ -2,4 +2,4 @@
 New text
 
 some text
-fix2 changes
+fix2 changes!
